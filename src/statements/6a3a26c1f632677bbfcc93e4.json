@@ -1,0 +1,22 @@
+{
+  "loanId": "6a3a26c1f632677bbfcc93e4",
+  "name": "Hansana Sandamini",
+  "email": "missworld5124@gmail.com",
+  "amount": 100000,
+  "emi": 8333.333333333334,
+  "status": "APPROVED",
+  "repayments": [
+    {
+      "amount": 500,
+      "date": "2026-06-23T06:58:35.137Z"
+    },
+    {
+      "amount": 800,
+      "date": "2026-06-23T07:03:09.674Z"
+    },
+    {
+      "amount": 100,
+      "date": "2026-06-23T07:03:33.981Z"
+    }
+  ]
+}
